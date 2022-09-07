@@ -1,0 +1,9 @@
+{
+  "intents": [
+		"Guilds",
+		"GuildMembers",
+    "GuildVoiceStates",
+    "GuildMessages",
+    "MessageContent"
+  ]
+}
